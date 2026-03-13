@@ -2,7 +2,7 @@ TripMate App
 
 TripMate is a smart travel planning application designed to help users explore destinations, organize trips, and manage travel details with ease. It provides a simple interface for planning enjoyable and well‑organized journeys.
 
-🚀 Features
+🚀 Features 
 - Destination exploration with recommendations
 - Itinerary scheduling and trip organization
 - Expense tracking and travel detail management
